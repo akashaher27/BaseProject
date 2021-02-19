@@ -1,6 +1,5 @@
-package com.example.mycalender.view.common
+package com.example.baseproject.view.common
 
-import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 
 /**

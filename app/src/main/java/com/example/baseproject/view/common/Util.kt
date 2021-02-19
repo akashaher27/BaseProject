@@ -1,4 +1,4 @@
-package com.example.mycalender.view.common
+package com.example.baseproject.view.common
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
